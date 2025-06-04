@@ -1,0 +1,18 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Pygame build artifacts
+*.pyc
+build/
+
+# Virtual environment
+venv/
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
